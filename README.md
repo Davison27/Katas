@@ -3,7 +3,7 @@
 
 # What is this repository?
 
-This repository have all the Codekatas that I did in the ASL. 
+This repository has all the Codekatas that I did in the ASL. 
 Codekatas are a fun method to learn new programming languages, new ways of programming and to improve your good practices.
 
 Each folder in this repo is a codeKata with my code and solution for the giving problem.
